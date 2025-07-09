@@ -43,5 +43,5 @@ This project analyzes **Major League Baseball (MLB) player careers, team salary 
 
 ---
 
-## 🗂️ Repository Structure
+
 
